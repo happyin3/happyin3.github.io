@@ -3,6 +3,79 @@
   
     
     <entry>
+      <title>articles</title>
+      <link href="/2018/11/05/articles/"/>
+      <url>/2018/11/05/articles/</url>
+      
+        <content type="html"><![CDATA[<ul><li><a href="https://cloud.tencent.com/developer/article/1140941" target="_blank" rel="noopener">Github开源免费编程书籍</a></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 积少成多 </category>
+          
+          <category> 持续更新 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 积少成多 </tag>
+            
+            <tag> 持续更新 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>websites</title>
+      <link href="/2018/11/05/websites/"/>
+      <url>/2018/11/05/websites/</url>
+      
+        <content type="html"><![CDATA[<ul><li><a href="https://python-parallel-programmning-cookbook.readthedocs.io/zh_CN/latest/index.html" target="_blank" rel="noopener">Python并行编程 中文版</a></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 积少成多 </category>
+          
+          <category> 持续更新 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 积少成多 </tag>
+            
+            <tag> 持续更新 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>书单</title>
+      <link href="/2018/11/03/%E4%B9%A6%E5%8D%95/"/>
+      <url>/2018/11/03/%E4%B9%A6%E5%8D%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="在读书单"><a href="#在读书单" class="headerlink" title="在读书单"></a>在读书单</h1><ul><li>编程开发</li></ul><h2 id="编程开发"><a href="#编程开发" class="headerlink" title="编程开发"></a>编程开发</h2><ul><li><a href="https://www.amazon.cn/dp/B072RBY4M5/ref=pd_sbs_14_3?_encoding=UTF8&amp;pd_rd_i=B072RBY4M5&amp;pd_rd_r=6d09e17e-df72-11e8-904b-dfc5a121f96a&amp;pd_rd_w=kNNAZ&amp;pd_rd_wg=2QdZe&amp;pf_rd_i=desktop-dp-sims&amp;pf_rd_m=A1AJ19PSB66TGU&amp;pf_rd_p=2d9f2e80-85a0-476d-89d7-9e61ddceb885&amp;pf_rd_r=ASWW8H3123ABPTTSZ769&amp;pf_rd_s=desktop-dp-sims&amp;pf_rd_t=40701&amp;psc=1&amp;refRID=ASWW8H3123ABPTTSZ769" target="_blank" rel="noopener">Python高性能编程</a></li></ul><h1 id="心愿书单"><a href="#心愿书单" class="headerlink" title="心愿书单"></a>心愿书单</h1><ul><li><a href="https://www.amazon.cn/dp/B07C5K7SF4/ref=pd_sim_14_5?_encoding=UTF8&amp;pd_rd_i=B07C5K7SF4&amp;pd_rd_r=57e2f414-df71-11e8-8d14-7da11f7b3b4e&amp;pd_rd_w=H0C2j&amp;pd_rd_wg=FheNY&amp;pf_rd_i=desktop-dp-sims&amp;pf_rd_m=A1AJ19PSB66TGU&amp;pf_rd_p=d1e83102-ea4c-4dbd-a0f7-37954c0da7ca&amp;pf_rd_r=ZEWZVRVME5SKTHMRCXAD&amp;pf_rd_s=desktop-dp-sims&amp;pf_rd_t=40701&amp;psc=1&amp;refRID=ZEWZVRVME5SKTHMRCXAD" target="_blank" rel="noopener">Python并行编程手册</a></li><li><a href="https://www.amazon.cn/dp/B07GK1Q2J6/ref=sr_1_cc_2?s=aps&amp;ie=UTF8&amp;qid=1541253822&amp;sr=1-2-catcorr&amp;keywords=Python%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90" target="_blank" rel="noopener">Python高性能 第2版</a></li><li><a href="https://www.amazon.cn/dp/B01HB0KNCG/ref=sr_1_cc_1?s=aps&amp;ie=UTF8&amp;qid=1541253822&amp;sr=1-1-catcorr&amp;keywords=Python%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90" target="_blank" rel="noopener">Python性能分析与优化</a></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 持续更新 </tag>
+            
+            <tag> 书单 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>工具套件</title>
       <link href="/2018/11/03/%E5%B7%A5%E5%85%B7%E5%A5%97%E4%BB%B6/"/>
       <url>/2018/11/03/%E5%B7%A5%E5%85%B7%E5%A5%97%E4%BB%B6/</url>
@@ -40,9 +113,9 @@
       
         <tags>
             
-            <tag> 目标规划 </tag>
-            
             <tag> 持续更新 </tag>
+            
+            <tag> 目标规划 </tag>
             
         </tags>
       
