@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://happyin3.github.io/"/>
-  <updated>2018-11-05T10:35:33.595Z</updated>
+  <updated>2018-12-23T08:52:25.480Z</updated>
   <id>http://happyin3.github.io/</id>
   
   <author>
@@ -17,13 +17,91 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>linux-bash</title>
+    <link href="http://happyin3.github.io/2018/12/23/linux-bash/"/>
+    <id>http://happyin3.github.io/2018/12/23/linux-bash/</id>
+    <published>2018-12-23T08:52:25.000Z</published>
+    <updated>2018-12-23T08:52:25.480Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>emacs</title>
+    <link href="http://happyin3.github.io/2018/12/23/emacs/"/>
+    <id>http://happyin3.github.io/2018/12/23/emacs/</id>
+    <published>2018-12-23T08:51:27.000Z</published>
+    <updated>2018-12-23T08:57:17.381Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h1><ol><li><a href="https://www.cnblogs.com/youge/p/4518739.html" target="_blank" rel="noopener">Emacs 快速指南 - 原生中文手册</a></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;参考文献&quot;&gt;&lt;a href=&quot;#参考文献&quot; class=&quot;headerlink&quot; title=&quot;参考文献&quot;&gt;&lt;/a&gt;参考文献&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.cnblogs.com/youge/p/4518739.html&quot; t
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>vim</title>
+    <link href="http://happyin3.github.io/2018/12/23/vim/"/>
+    <id>http://happyin3.github.io/2018/12/23/vim/</id>
+    <published>2018-12-23T08:51:22.000Z</published>
+    <updated>2018-12-23T08:51:22.866Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>tmux</title>
+    <link href="http://happyin3.github.io/2018/12/23/tmux/"/>
+    <id>http://happyin3.github.io/2018/12/23/tmux/</id>
+    <published>2018-12-23T08:51:17.000Z</published>
+    <updated>2018-12-23T08:51:17.221Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>沉思录</title>
+    <link href="http://happyin3.github.io/2018/12/23/%E6%B2%89%E6%80%9D%E5%BD%95/"/>
+    <id>http://happyin3.github.io/2018/12/23/沉思录/</id>
+    <published>2018-12-23T08:49:13.000Z</published>
+    <updated>2018-12-23T08:49:13.472Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>articles</title>
     <link href="http://happyin3.github.io/2018/11/05/articles/"/>
     <id>http://happyin3.github.io/2018/11/05/articles/</id>
     <published>2018-11-05T03:59:06.000Z</published>
-    <updated>2018-11-05T10:35:33.595Z</updated>
+    <updated>2018-11-05T16:23:45.597Z</updated>
     
-    <content type="html"><![CDATA[<ul><li><a href="https://cloud.tencent.com/developer/article/1140941" target="_blank" rel="noopener">Github开源免费编程书籍</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li><a href="https://cloud.tencent.com/developer/article/1140941" target="_blank" rel="noopener">Github开源免费编程书籍</a></li><li><a href="https://www.cnblogs.com/duzhengjie/p/9324668.html" target="_blank" rel="noopener">python各种web框架对比</a></li></ul>]]></content>
     
     <summary type="html">
     
@@ -31,8 +109,7 @@
       
         &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://cloud.tencent.com/developer/article/1140941&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Github开源免费编程书籍&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
+&lt;li&gt;&lt;a href=&quot;h
       
     
     </summary>
@@ -53,9 +130,9 @@
     <link href="http://happyin3.github.io/2018/11/05/websites/"/>
     <id>http://happyin3.github.io/2018/11/05/websites/</id>
     <published>2018-11-05T03:58:29.000Z</published>
-    <updated>2018-11-05T10:38:13.416Z</updated>
+    <updated>2018-11-05T16:23:42.321Z</updated>
     
-    <content type="html"><![CDATA[<ul><li><a href="https://python-parallel-programmning-cookbook.readthedocs.io/zh_CN/latest/index.html" target="_blank" rel="noopener">Python并行编程 中文版</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li><a href="https://python-parallel-programmning-cookbook.readthedocs.io/zh_CN/latest/index.html" target="_blank" rel="noopener">Python并行编程 中文版</a></li><li><a href="https://vibora.io/" target="_blank" rel="noopener">vibora</a></li></ul>]]></content>
     
     <summary type="html">
     
@@ -83,7 +160,7 @@
     <link href="http://happyin3.github.io/2018/11/03/%E4%B9%A6%E5%8D%95/"/>
     <id>http://happyin3.github.io/2018/11/03/书单/</id>
     <published>2018-11-03T14:08:19.000Z</published>
-    <updated>2018-11-04T12:47:44.652Z</updated>
+    <updated>2018-11-04T12:47:44.653Z</updated>
     
     <content type="html"><![CDATA[<h1 id="在读书单"><a href="#在读书单" class="headerlink" title="在读书单"></a>在读书单</h1><ul><li>编程开发</li></ul><h2 id="编程开发"><a href="#编程开发" class="headerlink" title="编程开发"></a>编程开发</h2><ul><li><a href="https://www.amazon.cn/dp/B072RBY4M5/ref=pd_sbs_14_3?_encoding=UTF8&amp;pd_rd_i=B072RBY4M5&amp;pd_rd_r=6d09e17e-df72-11e8-904b-dfc5a121f96a&amp;pd_rd_w=kNNAZ&amp;pd_rd_wg=2QdZe&amp;pf_rd_i=desktop-dp-sims&amp;pf_rd_m=A1AJ19PSB66TGU&amp;pf_rd_p=2d9f2e80-85a0-476d-89d7-9e61ddceb885&amp;pf_rd_r=ASWW8H3123ABPTTSZ769&amp;pf_rd_s=desktop-dp-sims&amp;pf_rd_t=40701&amp;psc=1&amp;refRID=ASWW8H3123ABPTTSZ769" target="_blank" rel="noopener">Python高性能编程</a></li></ul><h1 id="心愿书单"><a href="#心愿书单" class="headerlink" title="心愿书单"></a>心愿书单</h1><ul><li><a href="https://www.amazon.cn/dp/B07C5K7SF4/ref=pd_sim_14_5?_encoding=UTF8&amp;pd_rd_i=B07C5K7SF4&amp;pd_rd_r=57e2f414-df71-11e8-8d14-7da11f7b3b4e&amp;pd_rd_w=H0C2j&amp;pd_rd_wg=FheNY&amp;pf_rd_i=desktop-dp-sims&amp;pf_rd_m=A1AJ19PSB66TGU&amp;pf_rd_p=d1e83102-ea4c-4dbd-a0f7-37954c0da7ca&amp;pf_rd_r=ZEWZVRVME5SKTHMRCXAD&amp;pf_rd_s=desktop-dp-sims&amp;pf_rd_t=40701&amp;psc=1&amp;refRID=ZEWZVRVME5SKTHMRCXAD" target="_blank" rel="noopener">Python并行编程手册</a></li><li><a href="https://www.amazon.cn/dp/B07GK1Q2J6/ref=sr_1_cc_2?s=aps&amp;ie=UTF8&amp;qid=1541253822&amp;sr=1-2-catcorr&amp;keywords=Python%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90" target="_blank" rel="noopener">Python高性能 第2版</a></li><li><a href="https://www.amazon.cn/dp/B01HB0KNCG/ref=sr_1_cc_1?s=aps&amp;ie=UTF8&amp;qid=1541253822&amp;sr=1-1-catcorr&amp;keywords=Python%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90" target="_blank" rel="noopener">Python性能分析与优化</a></li></ul>]]></content>
     
@@ -111,7 +188,7 @@
     <link href="http://happyin3.github.io/2018/11/03/%E5%B7%A5%E5%85%B7%E5%A5%97%E4%BB%B6/"/>
     <id>http://happyin3.github.io/2018/11/03/工具套件/</id>
     <published>2018-11-03T06:48:34.000Z</published>
-    <updated>2018-11-03T07:16:38.967Z</updated>
+    <updated>2018-11-03T07:16:38.968Z</updated>
     
     <content type="html"><![CDATA[<h1 id="博客"><a href="#博客" class="headerlink" title="博客"></a>博客</h1><ul><li><a href="https://hexo.io" target="_blank" rel="noopener">hexo</a></li><li><a href="https://xaoxuu.com/wiki/material-x/" target="_blank" rel="noopener">主题</a></li></ul><h1 id="Chrome插件"><a href="#Chrome插件" class="headerlink" title="Chrome插件"></a>Chrome插件</h1><ul><li><a href="https://iaman.actor/blog/2016/06/14/cvim" target="_blank" rel="noopener">cVim</a></li><li><a href="https://iaman.actor/blog/2016/04/05/spaces-tab-manage" target="_blank" rel="noopener">Spaces</a></li></ul><h1 id="Windows操作系统"><a href="#Windows操作系统" class="headerlink" title="Windows操作系统"></a>Windows操作系统</h1><ul><li><a href="https://github.com/goreliu/wsl-terminal" target="_blank" rel="noopener">wsl-terminal</a></li></ul>]]></content>
     
@@ -137,7 +214,7 @@
     <link href="http://happyin3.github.io/2018/11/03/%E5%B0%8F%E7%9B%AE%E6%A0%87/"/>
     <id>http://happyin3.github.io/2018/11/03/小目标/</id>
     <published>2018-11-03T06:32:27.000Z</published>
-    <updated>2018-11-03T07:16:27.961Z</updated>
+    <updated>2018-11-03T07:16:27.962Z</updated>
     
     <content type="html"><![CDATA[<h1 id="精进"><a href="#精进" class="headerlink" title="精进"></a>精进</h1><ul><li>编程开发</li><li>生活饮食</li><li>力量训练</li></ul><h1 id="编程开发"><a href="#编程开发" class="headerlink" title="编程开发"></a>编程开发</h1><ul><li>性能分析</li><li>并行处理</li><li>面向对象编程</li><li>分布式</li><li>容器</li><li>微服务</li><li>系统架构</li></ul><h1 id="生活饮食"><a href="#生活饮食" class="headerlink" title="生活饮食"></a>生活饮食</h1><ul><li>火候</li><li>调味</li></ul><h1 id="力量训练"><a href="#力量训练" class="headerlink" title="力量训练"></a>力量训练</h1><ul><li>计划</li><li>减脂</li><li>饮食</li></ul>]]></content>
     
@@ -170,8 +247,8 @@
     <title>Hello World</title>
     <link href="http://happyin3.github.io/2018/10/31/hello-world/"/>
     <id>http://happyin3.github.io/2018/10/31/hello-world/</id>
-    <published>2018-10-31T15:47:54.271Z</published>
-    <updated>2018-10-31T15:47:54.271Z</updated>
+    <published>2018-10-31T15:47:54.272Z</published>
+    <updated>2018-10-31T15:47:54.272Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
